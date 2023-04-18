@@ -1,4 +1,5 @@
 package UnitTests.SpringMockMVC.Service;
 
-public class PaymentService {
+public class EntityService {
+
 }
